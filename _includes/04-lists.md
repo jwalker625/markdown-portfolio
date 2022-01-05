@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### Favorite Authors
+- Brandon Sanderson
+- Frank Herbert
+- Patrick Rothfuss
+- J.R.R. Tolkien
+- Neil Gaiman
+- Douglas Adams
